@@ -37,12 +37,12 @@
 			"[3] Unit Supply per [3] population [in capital]"
 		],
 		"cities": [
-			"Opik-Tyche"
+			"Opik-Tyche",
 			"Eris"
 		],
 		"spyNames": [
-			"Jan"
-			"Armin"
+			"Jan",
+			"Armin",
 			"Ernst"
 		]
 	}
@@ -81,39 +81,39 @@
 			"[-25]% Production when constructing [Military] units [in all cities]"
 		],
 		"cities": [
-			"Khong Lo"
-			"Than Nong"
-			"Long Quan"
-			"Au Co"
-			"Nghe"
-			"Lan"
-			"Quy"
-			"Phung"
-			"Thanh hoang"
-			"Buon Ma Doc"
-			"Khmausei"
-			"Bien Ranh"
-			"Uong Trang"
-			"Rach Cham"
-			"My Gia"
-			"Ban Chasim"
-			"Rach Tri"
-			"Kon Tum"
-			"Dong Mau"
-			"Ban Dulak"
+			"Khong Lo",
+			"Than Nong",
+			"Long Quan",
+			"Au Co",
+			"Nghe",
+			"Lan",
+			"Quy",
+			"Phung",
+			"Thanh hoang",
+			"Buon Ma Doc",
+			"Khmausei",
+			"Bien Ranh",
+			"Uong Trang",
+			"Rach Cham",
+			"My Gia",
+			"Ban Chasim",
+			"Rach Tri",
+			"Kon Tum",
+			"Dong Mau",
+			"Ban Dulak",
 			"Cam An"
 		],
 		"spyNames": [
-			"Mai"
-			"Quang"
-			"Hoang"
-			"Thai"
-			"Huynh"
-			"Dang"
-			"Duong"
-			"Diep"
-			"Bui"
-			"Phi"
+			"Mai",
+			"Quang",
+			"Hoang",
+			"Thai",
+			"Huynh",
+			"Dang",
+			"Duong",
+			"Diep",
+			"Bui",
+			"Phi",
 			"Vu"
 		]
 	}
@@ -147,15 +147,15 @@
 			"[Infantry] units gain the [We Are Amidst] promotion"
 		],
 		"cities": [
-			"MIRA HQ"
-			"Polus"
-			"Airstrip"
-			"Dockbay"
+			"MIRA HQ",
+			"Polus",
+			"Airstrip",
+			"Dockbay",
 			"Thermus"
 		],
 		"spyNames": [
-			"Impostor"
-			"Sussy"
+			"Impostor",
+			"Sussy",
 			"Damned"
 		]
 	}
