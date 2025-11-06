@@ -144,7 +144,7 @@
 		"uniques": [
 			"[+1 Science, +1 Gold] from [Organic] tiles [in all cities]",
 			"[+100 Gold] for discovering a Natural Wonder (bonus enhanced to [+500 Gold] if first to discover it)",
-			"[{Infantry}] units gain the [We Are Amidst] promotion"
+			"[Infantry] units gain the [We Are Amidst] promotion"
 		],
 		"cities": [
 			"MIRA HQ"
