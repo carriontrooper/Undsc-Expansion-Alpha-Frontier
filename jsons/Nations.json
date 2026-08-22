@@ -30,7 +30,7 @@
 		"uniques": [
 			"[+50]% Unhappiness from [Population] [in all cities]",
 			"[-100]% Unhappiness from [Population] [in capital]",
-			"Receive triple Gold from Barbarian encampments and pillaging Cities",
+			"Receive [+200]% Gold from Barbarian encampments and pillaging Cities",
 			"[+15]% [Production] [in capital]",
 			"[+15]% growth [in capital]",
 			"[-15]% Culture cost of natural border growth [in capital]",
