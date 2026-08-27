@@ -77,7 +77,7 @@
 			"[+1 Culture] from [Aquaculture] tiles [in all cities]",
 			"[+1 Food] from every [Engineer] <after discovering [Offworld Industries]>",
 			"[+15]% Strength <in [Friendly Land] tiles>",
-			"[-25]% Food consumption by specialists [in all cities]",
+			"[-25]% Food consumption by [Specialists] [in all cities]",
 			"[-25]% Production when constructing [Military] units [in all cities]"
 		],
 		"cities": [
